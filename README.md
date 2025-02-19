@@ -1,2 +1,2 @@
-# <>Exercise-Activities</a>'
+# <a>Exercise-Activities</a>
 STIGS and Threat Hunting
