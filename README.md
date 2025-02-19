@@ -1,5 +1,7 @@
 # <a>Exercise-Activities</a>
-Welcome to the STIGs & Threat Hunting Exercises repository! This project is dedicated to enhancing cybersecurity skills through hands-on exercises in Security Technical Implementation Guides (STIG) compliance and Threat Hunting Techniques.📌 About This Repository
+Welcome to the STIGs & Threat Hunting Exercises repository! This project is dedicated to enhancing cybersecurity skills through hands-on exercises in Security Technical Implementation Guides (STIG) compliance and Threat Hunting Techniques.
+
+📌 About This Repository
 This repository provides:
 
 ✅ STIG Implementation Guides – Scripts, checklists, and automation for securing systems per DoD STIG requirements.
