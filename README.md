@@ -5,7 +5,7 @@ Welcome to the STIGs & Threat Hunting Exercises repository! This project is dedi
 
 This repository provides:
 
-✅ STIG Implementation Guides – Scripts, checklists, and automation for securing systems per DoD STIG requirements.
+✅ STIG Guides – Scripts, checklists, and automation for securing systems per DoD STIG requirements.
 
 ✅ Threat Hunting Playbooks – Step-by-step methodologies for detecting and mitigating cyber threats.
 
